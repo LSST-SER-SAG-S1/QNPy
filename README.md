@@ -2,6 +2,8 @@
 QNPy Documentation
 ==================
 
+Detailed documentation for this package can be found [here](https://lsst-ser-sag-s1.github.io/QNPy/).
+
 Introduction
 ============
 In exploring the diverse features of quasar light curves, a significant challenge arises from recurring gaps in observations, which pose a primary limitation. This obstacle, compounded by the inherent irregularities in data collection cadences, presents a formidable barrier. This complexity will be particularly pronounced when dealing with data that is going to come from the Legacy Survey of Space and Time (LSST), featuring seasonal gaps. Existing strategies, while effective, entail substantial computational costs. To address the complex nature of quasar light curve modeling, our package QNPy has been developed to efficiently model quasar light curves using Conditional Neural Processes.
